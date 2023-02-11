@@ -20,8 +20,7 @@
     "LastUpdated": 0,
     "DownloadCount": 0,
     "IconUrl": "https://raw.githubusercontent.com/53m1k0l0n/FF14_Plugins/main/LazyLoot/images/icon.png",
-    "DownloadLinkInstall": "https://github.com/53m1k0l0n/FF14_Plugins/blob/main/LazyLoot/latest.zip?raw=true",
-    "DownloadLinkTesting": "https://github.com/53m1k0l0n/FF14_Plugins/blob/main/LazyLoot/latest.zip?raw=true",
-    "DownloadLinkUpdate": "https://github.com/53m1k0l0n/FF14_Plugins/blob/main/LazyLoot/latest.zipp?raw=true"
+    "DownloadLinkInstall": "https://github.com/53m1k0l0n/FFXIV-LazyLoot/releases/download/v5.0.7/latest.zip?raw=true",
+    "DownloadLinkUpdate": "https://github.com/53m1k0l0n/FFXIV-LazyLoot/releases/download/v5.0.7/latest.zip?raw=true"
   }
 ]
