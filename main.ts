@@ -1,6 +1,6 @@
 const user = "53m1k0l0n";
 const repos = [
-  "LazyLoot",
+  "FFXIV-LazyLoot",
 ];
 
 const clearText = (str) => {
