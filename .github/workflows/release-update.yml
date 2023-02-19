@@ -1,4 +1,4 @@
-name: Update Repo
+name: Release Repo
 
 on:
   workflow_dispatch:
