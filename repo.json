@@ -3,7 +3,7 @@
     "Author": "53m1k0l0n",
     "Name": "LazyLoot",
     "InternalName": "LazyLoot",
-    "AssemblyVersion": "5.0.8.2",
+    "AssemblyVersion": "5.0.9",
     "Description": "Roll command with various arguments need | needonly | greed | pass | passall. \nChat and Toast output and delay for rolling.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/53m1k0l0n/FFXIV-LazyLoot",
@@ -19,11 +19,11 @@
     "LoadPriority": 0,
     "IconUrl": "https://raw.githubusercontent.com/53m1k0l0n/FFXIV-LazyLoot/main/LazyLoot/Images/icon.png",
     "Punchline": "Dungeon Loot but Lazy.",
-    "Changelog": "Added\n\n- Fix FULF Greed Only to Pass setting - Thanks Gidedin (PR by Gidedin",
+    "Changelog": "Added\n\n- More restrictions\n- A up to 1.5 seconds delay for FULF just to be a bit more Humanlike and no it can't be disabled.\n\nChanged\n\n- Complete rework of the rolling for FULF\n- Changed command from /roll to /rolling because of Kapture",
     "AcceptsFeedback": true,
-    "DownloadCount": 54,
-    "LastUpdate": 1676824959,
-    "DownloadLinkInstall": "https://github.com/53m1k0l0n/FFXIV-LazyLoot/releases/download/v5.0.8.2/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/53m1k0l0n/FFXIV-LazyLoot/releases/download/v5.0.8.2/latest.zip"
+    "DownloadCount": 0,
+    "LastUpdate": 1677195042,
+    "DownloadLinkInstall": "https://github.com/53m1k0l0n/FFXIV-LazyLoot/releases/download/v5.0.9/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/53m1k0l0n/FFXIV-LazyLoot/releases/download/v5.0.9/latest.zip"
   }
 ]
