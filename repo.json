@@ -3,7 +3,7 @@
     "Author": "53m1k0l0n",
     "Name": "LazyLoot",
     "InternalName": "LazyLoot",
-    "AssemblyVersion": "5.0.9.1",
+    "AssemblyVersion": "5.0.9.2",
     "Description": "Roll command with various arguments need | needonly | greed | pass | passall. \nChat and Toast output and delay for rolling.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/53m1k0l0n/FFXIV-LazyLoot",
@@ -19,11 +19,11 @@
     "LoadPriority": 0,
     "IconUrl": "https://raw.githubusercontent.com/53m1k0l0n/FFXIV-LazyLoot/main/LazyLoot/Images/icon.png",
     "Punchline": "Dungeon Loot but Lazy.",
-    "Changelog": "Changed\n\n- FULF will start roll between 1 and 3 seconds",
+    "Changelog": "Added\n\n- Restrictions to ignore gear which you can't use with your actual job.\n- FULF will try to roll if you activate it, in a duty, it's for the people who forget it before they run content. xD\n\nChanged\n\n- Skip Paladin's and Gladiator Arms, roll them manual.",
     "AcceptsFeedback": true,
-    "DownloadCount": 53,
-    "LastUpdate": 1677241907,
-    "DownloadLinkInstall": "https://github.com/53m1k0l0n/FFXIV-LazyLoot/releases/download/v5.0.9.1/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/53m1k0l0n/FFXIV-LazyLoot/releases/download/v5.0.9.1/latest.zip"
+    "DownloadCount": 0,
+    "LastUpdate": 1677438586,
+    "DownloadLinkInstall": "https://github.com/53m1k0l0n/FFXIV-LazyLoot/releases/download/v5.0.9.2/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/53m1k0l0n/FFXIV-LazyLoot/releases/download/v5.0.9.2/latest.zip"
   }
 ]
