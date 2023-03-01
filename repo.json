@@ -21,7 +21,7 @@
     "Punchline": "Dungeon Loot but Lazy.",
     "Changelog": "Added\n\n- Restrictions to ignore gear which you can't use with your actual job.\n- FULF will try to roll if you activate it, in a duty, it's for the people who forget it before they run content. xD\n\nChanged\n\n- Skip Paladin's and Gladiator Arms, roll them manual.",
     "AcceptsFeedback": true,
-    "DownloadCount": 116,
+    "DownloadCount": 129,
     "LastUpdate": 1677438586,
     "DownloadLinkInstall": "https://github.com/53m1k0l0n/FFXIV-LazyLoot/releases/download/v5.0.9.2/latest.zip",
     "DownloadLinkUpdate": "https://github.com/53m1k0l0n/FFXIV-LazyLoot/releases/download/v5.0.9.2/latest.zip"
