@@ -21,7 +21,7 @@
     "Punchline": "Dungeon Loot but Lazy.",
     "Changelog": "Changed\n\n- RollDelay can now be setup to a Min and Max value and the delay will be a random value between.",
     "AcceptsFeedback": true,
-    "DownloadCount": 0,
+    "DownloadCount": 6,
     "LastUpdate": 1677715783,
     "DownloadLinkInstall": "https://github.com/53m1k0l0n/FFXIV-LazyLoot/releases/download/v5.0.9.3/latest.zip",
     "DownloadLinkUpdate": "https://github.com/53m1k0l0n/FFXIV-LazyLoot/releases/download/v5.0.9.3/latest.zip"
